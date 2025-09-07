@@ -21,16 +21,6 @@ reverse-shell/
 
 ⚙️ Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/reverse-shell.git
-cd reverse-shell
-
-
-Install dependencies (if any):
-
-pip install -r requirements.txt
-
 ▶️ Usage
 Start the server (listener):
 python server.py
